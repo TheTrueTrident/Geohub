@@ -1,1 +1,1 @@
-I dont know why are have a readme but ok
+I dont know why have have a readme but ok
