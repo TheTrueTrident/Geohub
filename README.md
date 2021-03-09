@@ -1,1 +1,3 @@
-I dont know why have have a readme but ok
+The Official GEOHUB Repository.
+
+Do not DISTRIBUTE any files deposited here.
