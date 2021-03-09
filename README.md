@@ -1,3 +1,3 @@
 The Official GEOHUB Repository.
 
-Do not DISTRIBUTE any files deposited here.
+Do not re-distribute any files deposited here.
